@@ -1,4 +1,3 @@
-#Reducer
 import sys
 n = 0
 s = 0
